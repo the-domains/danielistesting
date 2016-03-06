@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Stripper Physics
-    url: 'https://www.youtube.com/user/poledancecrazee'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - dance
   - burlesque
@@ -20,8 +15,14 @@ keywords:
   - stripper
   - exotic
   - egyptian
-description: 'CLICK HERE NOW ------------------------------------------ http://www.violetflamestudios.com -------------------------------------------------------------------------- Exotic Neo-burlesque chair dance at Violet Flame Studios is a sexy, sensual burlesque dance class that features the use of the famed burlesque dance prop, the chair. Versatile and easy for anyone to learn!'
-inLanguage: en
+description: 'Exotic Neo-burlesque chair dance at Violet Flame Studios is a sexy, sensual burlesque dance class that features the use of the famed burlesque dance prop, the chair. Versatile and easy for anyone to learn!'
+datePublished: '2016-03-06T23:42:53.836Z'
+dateModified: '2016-03-06T23:41:46.498Z'
+author:
+  - name: Stripper Physics
+    url: 'https://www.youtube.com/user/poledancecrazee'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=I04CcT8COHg&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=I04CcT8COHg'
 title: BURLESQUE CHAIR DANCE - SCOTTSDALE - VIOLET FLAME STUDIOS
-datePublished: '2016-03-06T22:04:59.771Z'
-dateModified: '2016-03-06T22:02:00.481Z'
 sourcePath: _posts/2016-03-06-burlesque-chair-dance-scottsdale-violet-flame-studios.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: burlesque-chair-dance-scottsdale-violet-flame-studios/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
