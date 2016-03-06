@@ -17,20 +17,20 @@ keywords:
   - salad
   - fabulous
 description: 'Violet Flame Studios and Pussycats Pole Dance offer workouts and strength training plans designed for women that include pole dance classes, burlesque dance classes, lap dance classes, exotic dance classes, exotic crossfit, belly dance classes, aerial, yoga, meditation, & Pilates. We started teaching pole dance lessons & pole dancing lessons when S Factor was pole dancing on Oprah Winfrey.'
-datePublished: '2016-03-06T23:47:48.069Z'
-dateModified: '2016-03-06T23:47:39.819Z'
+datePublished: '2016-03-06T23:48:50.739Z'
+dateModified: '2016-03-06T23:48:08.486Z'
 author: []
 related: []
 app_links: []
 title: "VIOLET FLAME STUDIOS - SCOTTSDALE ARIZONA'S BEST CLASSES FOR BELLY DANCE (EGYPTIAN RAQ SHARQI & FUSION) POLE DANCE, BURLSEQUE, LAP DANCE, EXOTIC DANCE, PILATES, TWERK, TWERKING & MORE!"
+sourcePath: _posts/2016-03-06-violet-flame-studios-scottsdale-arizonas-best-classes-for.md
+published: true
 authors: []
 publisher:
   name: 'Violet Flame Studios - Holistic fitness for body & soul.'
   domain: www.violetflamestudios.com
   url: 'http://www.violetflamestudios.com'
   favicon: null
-sourcePath: _posts/2016-03-06-violet-flame-studios-scottsdale-arizonas-best-classes-for.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
