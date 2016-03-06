@@ -17,8 +17,8 @@ keywords:
   - salad
   - fabulous
 description: 'Violet Flame Studios and Pussycats Pole Dance offer workouts and strength training plans designed for women that include pole dance classes, burlesque dance classes, lap dance classes, exotic dance classes, exotic crossfit, belly dance classes, aerial, yoga, meditation, & Pilates. We started teaching pole dance lessons & pole dancing lessons when S Factor was pole dancing on Oprah Winfrey.'
-datePublished: '2016-03-06T23:48:50.739Z'
-dateModified: '2016-03-06T23:48:08.486Z'
+datePublished: '2016-03-06T23:50:22.189Z'
+dateModified: '2016-03-06T23:50:13.427Z'
 author: []
 related: []
 app_links: []
