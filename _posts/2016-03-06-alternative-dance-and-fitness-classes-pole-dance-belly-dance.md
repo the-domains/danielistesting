@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.violetflamestudios.com'
-  name: 'Violet Flame Studios - Holistic fitness for body & soul.'
-  favicon: null
-  domain: www.violetflamestudios.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: true
 keywords:
   - dance
   - burlesque
@@ -18,17 +16,21 @@ keywords:
   - sharqi
   - sensual
 description: 'VIOLET FLAME STUDIOS offers workouts and strength training plans designed for women that include pole dance classes, burlesque dance classes, lap dance classes, exotic dance classes, exotic crossfit, belly dance classes, aerial, yoga, meditation, & Pilates. We started teaching pole dance lessons & pole dancing lessons when S Factor was pole dancing on Oprah Winfrey.'
-inLanguage: en
+datePublished: '2016-03-06T23:39:36.507Z'
+dateModified: '2016-03-06T23:39:11.758Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.violetflamestudios.com/zclasses-original.html'
 title: 'ALTERNATIVE DANCE & FITNESS CLASSES POLE DANCE, BELLY DANCE, REGGAE, BURLESQUE, BOOTY POP BOOT CAMP (TWERK CLASS)'
-datePublished: '2016-03-06T22:04:33.901Z'
-dateModified: '2016-03-06T22:04:14.718Z'
 sourcePath: _posts/2016-03-06-alternative-dance-and-fitness-classes-pole-dance-belly-dance.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 'Violet Flame Studios - Holistic fitness for body & soul.'
+  domain: www.violetflamestudios.com
+  url: 'http://www.violetflamestudios.com'
+  favicon: null
+url: alternative-dance-and-fitness-classes-pole-dance-belly-dance/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
