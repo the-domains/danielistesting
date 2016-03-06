@@ -1,7 +1,7 @@
 name: danielistesting
 favicon: null
 layout_spectrum: 0.50013
-typography_spectrum: 0.55059
+typography_spectrum: 0.55715
 title: 'Violet Flame Studios '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#080405'
-    - '#d96b3c'
-    - '#933612'
-    - '#fa191f'
-  brandStrength: 0.1875
-  lightness: 0
-  saturation: 0.1875
+    - '#000001'
+    - '#0000f3'
+    - '#bb6dab'
+    - '#591a9a'
+    - '#4700fe'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
