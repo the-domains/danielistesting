@@ -17,8 +17,8 @@ keywords:
   - haze
   - arouse
 description: "Preview Rousing Flow's latest album and get a free extra track"
-datePublished: '2016-03-07T00:29:24.622Z'
-dateModified: '2016-03-07T00:29:17.749Z'
+datePublished: '2016-03-07T05:56:17.482Z'
+dateModified: '2016-03-07T05:56:13.588Z'
 author: []
 related: []
 app_links: []
