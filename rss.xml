@@ -4,20 +4,14 @@
         <description><![CDATA[Dan's test lab ]]></description>
         <link>https://thegrid.ai/danielistesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 17:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 17:15:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielistesting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A Post Title</p>]]></description>
             <link>https://thegrid.ai/danielistesting/a2083b84-8818-486e-afc4-ce645e2f2a65/index.html</link>
             <guid isPermaLink="false">a2083b84-8818-486e-afc4-ce645e2f2a65</guid>
             <pubDate>Sat, 12 Mar 2016 17:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Play Music" album by Rousing Flow Now Available]]></title>
-            <description><![CDATA[<article><h1>"Play Music" album by Rousing Flow Now Available</h1><p>Preview Rousing Flow's latest album and get a free extra track</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76907029f30c98abb3129e83ae3dfee8e6d8b631.jpg"></article>]]></description>
-            <link>https://rousingflow.com/welcome</link>
-            <guid isPermaLink="false">cdb2f1c5-617f-47a6-9b31-3701b1fed840</guid>
-            <pubDate>Mon, 07 Mar 2016 05:56:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
