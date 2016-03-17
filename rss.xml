@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Dan's test lab ]]></title>
         <description><![CDATA[Dan's test lab ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danielistesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 05:15:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 05:15:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danielistesting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Belly dance]]></title>
+            <description><![CDATA[<article><h1>Belly dance</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de6d055123f000c0bb12f9f5205ff82d63c95351.jpg"></article>]]></description>
+            <link>http://www.violetflamestudios.com/belly-dance.html</link>
+            <guid isPermaLink="false">a177e414-2842-41b2-90ae-53762efefee1</guid>
+            <pubDate>Thu, 17 Mar 2016 05:15:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pole class info]]></title>
             <description><![CDATA[<article><h1>Pole class info</h1><p>Level 2 introduces 4 more spins and some extensive climb work. We also begin preparations for inverts. Students develop lower ab strength required to lift your hips over your shoulders as well as MORE flexibility training for advanced tricks. Level 3 offers more advanced spins, climb variations and preparations for/and execution of inversions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de6d055123f000c0bb12f9f5205ff82d63c95351.jpg"></article>]]></description>
