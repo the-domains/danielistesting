@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T21:52:42.018Z'
-dateModified: '2016-03-26T20:52:00.952Z'
+datePublished: '2016-03-26T21:56:08.414Z'
+dateModified: '2016-03-26T21:54:26.208Z'
 title: Robism 2 here
 author: []
 sourcePath: _posts/2016-03-26-robism-2-here.md
@@ -24,3 +24,5 @@ _type: Article
 ---
 # Robism 2 here
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/622045c3-e1f5-458f-adbc-c3784e411caa.jpg)
+
+More about Robism 2 here
