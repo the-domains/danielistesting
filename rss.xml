@@ -4,8 +4,15 @@
         <description><![CDATA[Dan's test lab ]]></description>
         <link>https://thegrid.ai/danielistesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 18:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 18:57:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielistesting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robism saying number 3 goes right here]]></title>
+            <description><![CDATA[<article><h1>Robism saying number 3 goes right here</h1><p>This time, it has some other text that goes with it with the "P" tag.</p></article>]]></description>
+            <link>https://thegrid.ai/danielistesting/robism-saying-number-3-goes-right-here/index.html</link>
+            <guid isPermaLink="false">ad996c7e-212d-4f5c-bfa5-dffaf36f421a</guid>
+            <pubDate>Sat, 26 Mar 2016 18:57:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Robism 2 here]]></title>
             <description><![CDATA[<article><h1>Robism 2 here</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/622045c3-e1f5-458f-adbc-c3784e411caa.jpg"></article>]]></description>
