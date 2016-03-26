@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is the actual explanation
-datePublished: '2016-03-26T20:21:41.235Z'
-dateModified: '2016-03-26T20:21:29.273Z'
+datePublished: '2016-03-26T20:53:55.376Z'
+dateModified: '2016-03-26T20:51:22.752Z'
 title: About Robism
 author: []
 sourcePath: _posts/2016-03-26-about-robism.md
