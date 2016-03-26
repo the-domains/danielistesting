@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is the actual explanation
-datePublished: '2016-03-26T19:01:25.612Z'
-dateModified: '2016-03-26T19:00:40.163Z'
+datePublished: '2016-03-26T20:21:41.235Z'
+dateModified: '2016-03-26T20:21:29.273Z'
 title: About Robism
 author: []
+sourcePath: _posts/2016-03-26-about-robism.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-about-robism.md
-published: true
 url: about-robism/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 ## This is where you find out about where this is coming from
 
 This is the actual explanation
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81fb244d-ffc2-44ea-a520-0d25595d32cb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6e20453-0053-42c2-8588-9ad4172ba4d7.png)
 
 Image of Rob next
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0e74878-792d-4eb0-9e2e-764cf1dad23b.png)
