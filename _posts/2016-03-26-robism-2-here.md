@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T18:54:21.278Z'
-dateModified: '2016-03-26T18:53:56.315Z'
+datePublished: '2016-03-26T20:51:51.894Z'
+dateModified: '2016-03-26T18:54:28.722Z'
 title: Robism 2 here
 author: []
+sourcePath: _posts/2016-03-26-robism-2-here.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-robism-2-here.md
-published: true
 url: robism-2-here/index.html
 _type: Article
 
