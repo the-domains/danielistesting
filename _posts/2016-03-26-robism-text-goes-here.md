@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Photo credits and link to iShift here
-datePublished: '2016-03-26T18:49:58.755Z'
-dateModified: '2016-03-26T18:49:50.835Z'
+datePublished: '2016-03-26T21:53:00.291Z'
+dateModified: '2016-03-26T21:52:59.573Z'
 title: Robism text goes here
 author: []
+sourcePath: _posts/2016-03-26-robism-text-goes-here.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-robism-text-goes-here.md
-published: true
 url: robism-text-goes-here/index.html
 _type: Article
 
