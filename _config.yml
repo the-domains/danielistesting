@@ -1,6 +1,6 @@
 name: danielistesting
 favicon: null
-layout_spectrum: 0.24224
+layout_spectrum: 0.9973
 typography_spectrum: 0.4782
 title: "Dan's test lab "
 cta:
@@ -22,8 +22,8 @@ color:
     - '#5a5f0d'
     - '#ead578'
     - '#a1aab5'
-  brandStrength: 0.5
-  lightness: 0
+  brandStrength: 0
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
