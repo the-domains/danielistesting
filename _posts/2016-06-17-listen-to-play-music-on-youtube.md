@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: Buy on iTunes
-datePublished: '2016-06-17T03:26:16.336Z'
-dateModified: '2016-06-17T03:25:58.824Z'
+description: Get from Apple Music
+datePublished: '2016-06-17T03:36:38.990Z'
+dateModified: '2016-06-17T03:31:25.211Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
@@ -17,6 +17,8 @@ url: listen-to-play-music-on-youtube/index.html
 _type: Article
 
 ---
+# How to get "Play Music" by Rousing Flow...
+
 [Buy on iTunes][0]
 
 [Get from Apple Music][1]
