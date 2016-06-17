@@ -1,8 +1,8 @@
 name: danielistesting
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.82638
-title: "Dan's test lab "
+layout_spectrum: 1
+typography_spectrum: 0.3142
+title: 'Dan''s test lab '
 cta:
   domain: null
   bucket: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000029'
-    - '#6f7376'
-    - '#c9c4ca'
-    - '#feedde'
-    - '#584133'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 1
+    - '#343434'
+    - '#fc5c5f'
+    - '#fffcfb'
+    - '#f3ba96'
+    - '#fb0416'
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.1875
+  rhythmicContrast: 0
 purpose: []
