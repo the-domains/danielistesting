@@ -4,8 +4,15 @@
         <description><![CDATA[Dan's test lab ]]></description>
         <link>https://thegrid.ai/danielistesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 02:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 03:08:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielistesting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Play Music album reviews]]></title>
+            <description><![CDATA[<p>"This is the kind of music that the Fifty Shades of Grey film needed"</p>]]></description>
+            <link>https://thegrid.ai/danielistesting/play-music-album-reviews/index.html</link>
+            <guid isPermaLink="false">a2a10e0f-ba91-4b16-959d-8d8ba200fc4a</guid>
+            <pubDate>Fri, 17 Jun 2016 03:08:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Music always sets the mood...</p>]]></description>
