@@ -4,15 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-17T03:21:11.403Z'
-dateModified: '2016-06-17T03:20:47.007Z'
+description: Buy on iTunes
+datePublished: '2016-06-17T03:26:16.336Z'
+dateModified: '2016-06-17T03:25:58.824Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
 url: listen-to-play-music-on-youtube/index.html
 _type: Article
 
@@ -30,7 +30,7 @@ _type: Article
 [Find it on Deezer][5]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39d86c50-d3b2-4888-8711-150e79e18d44.png)
 
-Watch the [Youtube Playlist][6]
+[Watch the Youtube Playlist][6]
 
 [A few tracks in a playlist on Soundcloud][7]
 
