@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"This is the kind of music that the Fifty Shades of Grey film needed"'
-datePublished: '2016-06-17T03:34:27.679Z'
-dateModified: '2016-06-17T03:34:07.588Z'
+datePublished: '2016-06-17T03:36:43.193Z'
+dateModified: '2016-06-17T03:34:35.895Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-play-music-album-reviews.md
