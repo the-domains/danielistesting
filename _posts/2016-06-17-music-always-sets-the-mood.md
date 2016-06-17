@@ -7,8 +7,8 @@ keywords: []
 description: >-
   "Play Music" was created to invite intimacy, entice sensuality, and arouse
   passion when people share each other.
-datePublished: '2016-06-17T03:27:44.492Z'
-dateModified: '2016-06-17T03:27:27.431Z'
+datePublished: '2016-06-17T03:36:46.185Z'
+dateModified: '2016-06-17T03:27:49.877Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-music-always-sets-the-mood.md
