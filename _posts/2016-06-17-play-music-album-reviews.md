@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"This is the kind of music that the Fifty Shades of Grey film needed"'
-datePublished: '2016-06-17T03:36:43.193Z'
-dateModified: '2016-06-17T03:34:35.895Z'
+datePublished: '2016-06-17T03:42:38.272Z'
+dateModified: '2016-06-17T03:42:36.872Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-play-music-album-reviews.md
@@ -28,7 +28,6 @@ _**"The musical versatility that Rousing Flow possesses could fill a stage... wi
 **_["Tight percussion accents, slick guitar and bass banter, and atmospheric synths envelope each track in mystery"][1]_**
 
 [- Independent Spotlight][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c14e3c37-194c-42b6-90a5-7eb4db232639.jpg)
 
 [0]: https://thefaulknerreview.wordpress.com/2015/06/19/album-review-play-music-by-rousing-flow-review/
 [1]: http://brettstewart.net/independent-spotlight/14156278/rousingflow
