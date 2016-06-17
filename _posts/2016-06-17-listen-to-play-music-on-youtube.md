@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Get from Apple Music
-datePublished: '2016-06-17T03:36:38.990Z'
-dateModified: '2016-06-17T03:31:25.211Z'
+datePublished: '2016-06-17T03:38:37.077Z'
+dateModified: '2016-06-17T03:38:12.342Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
