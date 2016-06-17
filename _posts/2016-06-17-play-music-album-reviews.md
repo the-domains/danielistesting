@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"This is the kind of music that the Fifty Shades of Grey film needed"'
-datePublished: '2016-06-17T03:42:38.272Z'
-dateModified: '2016-06-17T03:42:36.872Z'
+datePublished: '2016-06-17T03:51:23.231Z'
+dateModified: '2016-06-17T03:48:13.763Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-play-music-album-reviews.md
@@ -19,9 +19,9 @@ _type: Article
 ---
 **_["This is the kind of music that the Fifty Shades of Grey film needed"][0]_**
 
-[- The Faulkner Review][0]
+[- The Faulkner Review][0]_**"**_
 
-_**"The musical versatility that Rousing Flow possesses could fill a stage... with one talented man playing all instruments. His showcase piece 'In Haze' offers a glimpse of so many styles, tempos and sonic personas"**_
+**_The musical versatility that Rousing Flow possesses could fill a stage... with one talented man playing all instruments. His showcase piece 'In Haze' offers a glimpse of so many styles, tempos and sonic personas"_**
 
 - Chuck Taylor
 
