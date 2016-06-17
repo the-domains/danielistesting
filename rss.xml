@@ -4,7 +4,7 @@
         <description><![CDATA[Rousing Flow]]></description>
         <link>https://thegrid.ai/danielistesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 03:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 03:36:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielistesting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Music always sets the mood...]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Fri, 17 Jun 2016 03:27:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Play Music album reviews]]></title>
+            <description><![CDATA[<p>"This is the kind of music that the Fifty Shades of Grey film needed"</p>]]></description>
+            <link>https://thegrid.ai/danielistesting/play-music-album-reviews/index.html</link>
+            <guid isPermaLink="false">a2a10e0f-ba91-4b16-959d-8d8ba200fc4a</guid>
+            <pubDate>Fri, 17 Jun 2016 03:36:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Listen to "Play Music"]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39d86c50-d3b2-4888-8711-150e79e18d44.png">]]></description>
             <link>https://thegrid.ai/danielistesting/listen-to-play-music-on-youtube/index.html</link>
             <guid isPermaLink="false">e90f55a3-4b00-42e4-a42a-dc0edcdd904b</guid>
             <pubDate>Fri, 17 Jun 2016 03:36:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Play Music album reviews]]></title>
-            <description><![CDATA[<p>"This is the kind of music that the Fifty Shades of Grey film needed"</p>]]></description>
-            <link>https://thegrid.ai/danielistesting/play-music-album-reviews/index.html</link>
-            <guid isPermaLink="false">a2a10e0f-ba91-4b16-959d-8d8ba200fc4a</guid>
-            <pubDate>Fri, 17 Jun 2016 03:34:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
