@@ -4,42 +4,14 @@
         <description><![CDATA[Dan's test lab ]]></description>
         <link>https://thegrid.ai/danielistesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 02:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 02:58:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielistesting/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Robism text goes here]]></title>
-            <description><![CDATA[<article><h1>Robism text goes here</h1><p>Photo credits and link to iShift here</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0371e4b9-cf64-4f54-a850-aa34648e37e0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/danielistesting/robism-text-goes-here/index.html</link>
-            <guid isPermaLink="false">5ccaea77-62d2-4308-afd3-6c807cf54f47</guid>
-            <pubDate>Sat, 26 Mar 2016 21:53:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Music always sets the mood...</p>]]></description>
             <link>https://thegrid.ai/danielistesting/music-always-sets-the-mood/index.html</link>
             <guid isPermaLink="false">4a24b224-0e2e-4dcd-b41c-3a310b73f07a</guid>
-            <pubDate>Fri, 17 Jun 2016 02:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robism 2 here]]></title>
-            <description><![CDATA[<article><h1>Robism 2 here</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/622045c3-e1f5-458f-adbc-c3784e411caa.jpg"></article>]]></description>
-            <link>https://thegrid.ai/danielistesting/robism-2-here/index.html</link>
-            <guid isPermaLink="false">12decd87-2d7a-4246-904a-6fc59f71ae09</guid>
-            <pubDate>Sat, 26 Mar 2016 21:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Robism]]></title>
-            <description><![CDATA[<article><h1>About Robism</h1><h2>This is where you find out about where this is coming from</h2><p>This is the actual explanation</p></article>]]></description>
-            <link>https://thegrid.ai/danielistesting/about-robism/index.html</link>
-            <guid isPermaLink="false">2fc9c788-e3c7-4dfa-b67c-93e6ea2b0597</guid>
-            <pubDate>Sat, 26 Mar 2016 21:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robism saying number 3 goes right here]]></title>
-            <description><![CDATA[<article><h1>Robism saying number 3 goes right here</h1><p>This time, it has some other text that goes with it with the "P" tag.</p></article>]]></description>
-            <link>https://thegrid.ai/danielistesting/robism-saying-number-3-goes-right-here/index.html</link>
-            <guid isPermaLink="false">ad996c7e-212d-4f5c-bfa5-dffaf36f421a</guid>
-            <pubDate>Sat, 26 Mar 2016 18:57:22 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2016 02:58:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
