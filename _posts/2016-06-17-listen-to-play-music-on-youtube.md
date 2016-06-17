@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Get from Apple Music
-datePublished: '2016-06-17T03:51:16.087Z'
-dateModified: '2016-06-17T03:51:15.557Z'
-title: ''
+description: Buy on iTunes
+datePublished: '2016-06-17T04:03:10.493Z'
+dateModified: '2016-06-17T04:03:09.982Z'
+title: Get "Play Music"
 author:
   - name: ''
     url: ''
@@ -32,7 +32,6 @@ _type: Article
 [Get on Google Play][4]
 
 [Find it on Deezer][5]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39d86c50-d3b2-4888-8711-150e79e18d44.png)
 
 [Watch the Youtube Playlist][6]
 
