@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Music always sets the mood...
-datePublished: '2016-06-17T02:57:01.816Z'
-dateModified: '2016-06-17T02:55:11.178Z'
+datePublished: '2016-06-17T02:58:40.967Z'
+dateModified: '2016-06-17T02:57:10.067Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-17-music-always-sets-the-mood.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-17-music-always-sets-the-mood.md
 url: music-always-sets-the-mood/index.html
 _type: Article
 
