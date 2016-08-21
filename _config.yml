@@ -1,20 +1,4 @@
-name: danielistesting
-favicon: null
-layout_spectrum: 0.26473
 typography_spectrum: 0.3142
-title: Rousing Flow
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.125
   saturation: 0.125
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.26473
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: danielistesting
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Get "Play Music"
+    id: e90f55a3-4b00-42e4-a42a-dc0edcdd904b
+    type: content
+favicon: null
+title: Rousing Flow
 purpose: []
