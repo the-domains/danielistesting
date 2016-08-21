@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T04:35:07.525Z'
+datePublished: '2016-08-21T04:37:10.506Z'
 sourcePath: _posts/2016-06-17-play-music-album-reviews.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T04:35:07.011Z'
-title: ''
+dateModified: '2016-08-21T04:37:09.394Z'
+title: What others are saying…
 publisher: {}
 description: '"This is the kind of music that the Fifty Shades of Grey film needed"'
 inLanguage: null
@@ -19,6 +19,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4264cfc-b776-474c-8cf5-dc53f4dd0035.jpg)
+
+# What others are saying...
 
 _**["This is the kind of music that the Fifty Shades of Grey film needed"][0]**_
 
