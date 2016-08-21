@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T04:43:41.529Z'
+datePublished: '2016-08-21T04:51:44.597Z'
 sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T04:43:41.192Z'
+dateModified: '2016-08-21T04:51:44.173Z'
 title: Get "Play Music"
 publisher: {}
 description: Buy on iTunes
