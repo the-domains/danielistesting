@@ -1,19 +1,20 @@
 ---
+datePublished: '2016-08-21T04:27:44.233Z'
+sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: Buy on iTunes
-datePublished: '2016-06-17T04:03:10.493Z'
-dateModified: '2016-06-17T04:03:09.982Z'
-title: Get "Play Music"
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
-authors: []
-publisher: null
+via: {}
+dateModified: '2016-08-21T04:27:43.857Z'
+title: Get "Play Music"
+publisher: {}
+description: Buy on iTunes
+inLanguage: null
+inNav: true
 starred: false
 url: listen-to-play-music-on-youtube/index.html
 _type: Article
