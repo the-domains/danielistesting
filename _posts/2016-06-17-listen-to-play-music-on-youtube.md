@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T04:32:47.346Z'
+datePublished: '2016-08-21T04:41:48.080Z'
 sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T04:32:46.776Z'
+dateModified: '2016-08-21T04:41:47.671Z'
 title: Get "Play Music"
 publisher: {}
 description: Buy on iTunes
@@ -22,17 +22,17 @@ _type: Article
 
 # Get "Play Music"
 
-[Buy on iTunes][0]
+_[Buy on iTunes][0]_
 
-[Get from Apple Music][1]
+_[Get from Apple Music][1]_
 
-[Buy on Amazon][2]
+_[Buy on Amazon][2]_
 
-[Listen to on Spotify][3]
+_[Listen to on Spotify][3]_
 
-[Get on Google Play][4]
+_[Get on Google Play][4]_
 
-[Find it on Deezer][5]
+_[Find it on Deezer][5]_
 
     <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/234147837&amp;color=ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe> 
 
