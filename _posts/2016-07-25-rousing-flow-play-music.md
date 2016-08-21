@@ -1,15 +1,8 @@
 ---
-author:
-  - name: Brett Stewart
-    url: >-
-      http://brettdavidstewart.com/the-independent-spotlight/?author=55dc2d91e4b0643dd49f728c
-    avatar: {}
-related: []
-publisher:
-  url: 'http://brettdavidstewart.com'
-  name: Tilting Windmill Studios
-  favicon: 'http://brettdavidstewart.com/favicon.ico'
-  domain: brettdavidstewart.com
+datePublished: '2016-08-21T04:36:09.746Z'
+sourcePath: _posts/2016-07-25-rousing-flow-play-music.md
+isBasedOnUrl: >-
+  http://brettdavidstewart.com/the-independent-spotlight/2015/8/28/rousing-flow-play-music
 keywords:
   - flow
   - rousing
@@ -21,6 +14,21 @@ keywords:
   - play
   - songs
   - instrumentals
+related: []
+author:
+  - name: Brett Stewart
+    url: >-
+      http://brettdavidstewart.com/the-independent-spotlight/?author=55dc2d91e4b0643dd49f728c
+    avatar: {}
+via: {}
+dateModified: '2016-08-21T04:36:09.159Z'
+title: Rousing Flow - 'Play Music'
+app_links: []
+publisher:
+  url: 'http://brettdavidstewart.com'
+  name: Tilting Windmill Studios
+  favicon: 'http://brettdavidstewart.com/favicon.ico'
+  domain: brettdavidstewart.com
 description: >-
   Readers of the Independent Spotlight know that Garageband is my go-to when I
   refer to shoddy self-production, particularly in the hip-hop community. For
@@ -28,15 +36,7 @@ description: >-
   remarkably good digital audio workstation for a beginner that has versatility
   unparalleled in comparative suites.
 inLanguage: en
-app_links: []
-isBasedOnUrl: >-
-  http://brettdavidstewart.com/the-independent-spotlight/2015/8/28/rousing-flow-play-music
-title: Rousing Flow - 'Play Music'
-datePublished: '2016-07-25T04:18:38.376Z'
-dateModified: '2016-07-25T04:17:05.165Z'
-via: {}
 starred: false
-sourcePath: _posts/2016-07-25-rousing-flow-play-music.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -44,4 +44,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Rousing Flow - 'Play Music'</h1><p>Readers of the Independent Spotlight know that Garageband is my go-to when I refer to shoddy self-production, particularly in the hip-hop community. For all of the shots I fire at it, however, I do understand its potential. It's a remarkably good digital audio workstation for a beginner that has versatility unparalleled in comparative suites.</p><img src="http://static1.squarespace.com/static/55dc2d93e4b09b39ce08a0ff/t/55dff922e4b0c1952c7bf4bf/1440741667028/?format=1000w" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/885fc99a-96bb-4da5-a4c8-007b45196eb4.jpg)
