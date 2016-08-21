@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T04:42:19.800Z'
+datePublished: '2016-08-21T04:43:41.529Z'
 sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T04:42:19.334Z'
+dateModified: '2016-08-21T04:43:41.192Z'
 title: Get "Play Music"
 publisher: {}
 description: Buy on iTunes
@@ -18,9 +18,8 @@ url: listen-to-play-music-on-youtube/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f91d9c3f-824a-4657-9e98-f13a4ca0ddf1.png)
-
 # Get "Play Music"
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f91d9c3f-824a-4657-9e98-f13a4ca0ddf1.png)
 
 _[Buy on iTunes][0]_
 
