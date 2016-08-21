@@ -1,31 +1,34 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: '"This is the kind of music that the Fifty Shades of Grey film needed"'
-datePublished: '2016-06-17T03:51:23.231Z'
-dateModified: '2016-06-17T03:48:13.763Z'
-title: ''
-author: []
+datePublished: '2016-08-21T04:35:07.525Z'
 sourcePath: _posts/2016-06-17-play-music-album-reviews.md
+inFeed: true
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-21T04:35:07.011Z'
+title: ''
+publisher: {}
+description: '"This is the kind of music that the Fifty Shades of Grey film needed"'
+inLanguage: null
+inNav: false
 starred: false
 url: play-music-album-reviews/index.html
 _type: Article
 
 ---
-**_["This is the kind of music that the Fifty Shades of Grey film needed"][0]_**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4264cfc-b776-474c-8cf5-dc53f4dd0035.jpg)
+
+_**["This is the kind of music that the Fifty Shades of Grey film needed"][0]**_
 
 [- The Faulkner Review][0]_**"**_
 
-**_The musical versatility that Rousing Flow possesses could fill a stage... with one talented man playing all instruments. His showcase piece 'In Haze' offers a glimpse of so many styles, tempos and sonic personas"_**
+_**The musical versatility that Rousing Flow possesses could fill a stage... with one talented man playing all instruments. His showcase piece 'In Haze' offers a glimpse of so many styles, tempos and sonic personas"**_
 
 - Chuck Taylor
 
-**_["Tight percussion accents, slick guitar and bass banter, and atmospheric synths envelope each track in mystery"][1]_**
+_**["Tight percussion accents, slick guitar and bass banter, and atmospheric synths envelope each track in mystery"][1]**_
 
 [- Independent Spotlight][1]
 
