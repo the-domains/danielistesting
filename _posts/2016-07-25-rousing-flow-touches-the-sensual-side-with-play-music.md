@@ -30,11 +30,11 @@ app_links: []
 isBasedOnUrl: >-
   http://www.midtnmusic.com/rousing-flow-touches-the-sensual-side-with-play-music/
 title: Rousing Flow Touches The Sensual Side With Play Music
-datePublished: '2016-07-25T04:18:38.356Z'
-dateModified: '2016-07-25T04:16:12.958Z'
+datePublished: '2016-08-21T04:20:23.861Z'
+dateModified: '2016-08-21T04:20:23.617Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-rousing-flow-touches-the-sensual-side-with-play-music.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
