@@ -1,15 +1,13 @@
 ---
-datePublished: '2016-08-21T04:27:44.233Z'
+datePublished: '2016-08-21T04:32:47.346Z'
 sourcePath: _posts/2016-06-17-listen-to-play-music-on-youtube.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
-dateModified: '2016-08-21T04:27:43.857Z'
+dateModified: '2016-08-21T04:32:46.776Z'
 title: Get "Play Music"
 publisher: {}
 description: Buy on iTunes
@@ -20,6 +18,8 @@ url: listen-to-play-music-on-youtube/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f91d9c3f-824a-4657-9e98-f13a4ca0ddf1.png)
+
 # Get "Play Music"
 
 [Buy on iTunes][0]
@@ -34,9 +34,9 @@ _type: Article
 
 [Find it on Deezer][5]
 
-[Watch the Youtube Playlist][6]
+    <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/234147837&amp;color=ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe> 
 
-[A few tracks in a playlist on Soundcloud][7]
+
 
 [0]: http://apple.co/1NBjK4g
 [1]: http://apple.co/1NdTwYn
@@ -44,5 +44,3 @@ _type: Article
 [3]: http://spoti.fi/1HU2hF0
 [4]: http://bit.ly/1ZHKANT
 [5]: http://bit.ly/1ZHKCFv
-[6]: https://youtu.be/DbcFtj3tzyU?list=PLTLhmlr3azFEism--c-CZe6iFIDh_7SW0
-[7]: https://soundcloud.com/rousing-flow/sets/play-music-on-soundcloud
