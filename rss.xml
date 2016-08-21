@@ -4,8 +4,15 @@
         <description><![CDATA[Rousing Flow]]></description>
         <link>https://thegrid.ai/danielistesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 04:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 04:36:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielistesting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What others are saying...]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4264cfc-b776-474c-8cf5-dc53f4dd0035.jpg">]]></description>
+            <link>https://thegrid.ai/danielistesting/play-music-album-reviews/index.html</link>
+            <guid isPermaLink="false">a2a10e0f-ba91-4b16-959d-8d8ba200fc4a</guid>
+            <pubDate>Sun, 21 Aug 2016 04:35:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get "Play Music"]]></title>
             <description><![CDATA[<article><h1>Get "Play Music"</h1><p>Buy on iTunes</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f91d9c3f-824a-4657-9e98-f13a4ca0ddf1.png"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://indiebandguru.com/rousing-flow-play-music/</link>
             <guid isPermaLink="false">8451aff5-7e5d-467b-849a-b2525bf2fffb</guid>
             <pubDate>Mon, 25 Jul 2016 04:18:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What others are saying...]]></title>
-            <description><![CDATA[<p>"This is the kind of music that the Fifty Shades of Grey film needed"</p>]]></description>
-            <link>https://thegrid.ai/danielistesting/play-music-album-reviews/index.html</link>
-            <guid isPermaLink="false">a2a10e0f-ba91-4b16-959d-8d8ba200fc4a</guid>
-            <pubDate>Fri, 17 Jun 2016 03:51:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
